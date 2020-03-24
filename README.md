@@ -1,8 +1,8 @@
-# coding-helpdesk (experimental)
+# coding-helpdesk
 
 _Live support by appointment_
 
-The goal of this repository is to provide infrastructure to support 2dii's coding helpdesk. This is an opportunity for you to schedule a 30' appointment to work live with someone else on whatever coding problem you have. 
+The goal of this repository is to provide infrastructure to support 2dii's coding helpdesk that we'll try from now until the end of May. This is an opportunity for you to schedule a 30' appointment to work live with someone else on whatever coding problem you have. 
 
 This complements the more informal support you can get anytime at 2dii's slack workspace on the channel #coding. We hope the limitations that this project imposes will benefit you and you helper by:
 
