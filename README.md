@@ -18,9 +18,9 @@ This complements the more informal support you can get anytime at 2dii's slack w
 
 2. Add the calendars of all helpers (e.g. add mauro@2degrees-investing.org, cj@2degrees-investing.org, and jackson@2degrees-investing.org).
 
-<img src=http://i.imgur.com/4gTGTFL.png, width=600>
-
 3. Search for "helpdesk" and identify a suitable time-slot and helper.
+
+<img src=http://i.imgur.com/4gTGTFL.png, width=600>
 
 4. Create a google calendar event on that time-slot and invite that helper.
 
