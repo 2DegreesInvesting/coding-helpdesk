@@ -20,11 +20,11 @@ This complements the more informal support you can get anytime at 2DII's slack w
 
 2. Add the calendars of all helpers (list below).
 
-3. Search for "helpdesk" and identify a suitable time-slot and helper.
+3. Search for "helpdesk" and identify a suitable time slot and helper.
 
-<img src=http://i.imgur.com/NXpzxcb.png, width=600>
+4. Email the helper to discuss your issue and request that time slot.
 
-4. Create a google calendar event on that time-slot and invite that helper.
+<img src=http://i.imgur.com/M50PSHX.png, width=600>
 
 
 
