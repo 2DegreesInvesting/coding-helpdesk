@@ -14,13 +14,13 @@ This complements the more informal support you can get anytime at 2dii's slack w
 
 ## How to schedule an appointment
 
-1. Login with your 2dii username to google chalendar.
+1. Login to google calendar with your 2dii email.
 
-2. Add the calendars of all helpers (e.g. add mauro@2degrees-investing.org, cj@2degrees-investing.org, and jackson@2degrees-investing.org).
+2. Add the calendars of all helpers (list below).
 
 3. Search for "helpdesk" and identify a suitable time-slot and helper.
 
-<img src=http://i.imgur.com/4gTGTFL.png, width=600>
+<img src=http://i.imgur.com/NXpzxcb.png, width=600>
 
 4. Create a google calendar event on that time-slot and invite that helper.
 
@@ -30,6 +30,13 @@ This complements the more informal support you can get anytime at 2dii's slack w
 
 If possible, create a reproduble example with the [reprex package](https://reprex.tidyverse.org/).
 
---
 
-If you are interested in being a helper, please contact @Mauro Lepore on 2dii's Slack workspace. 
+
+## Helpers
+
+* cj@2degrees-investing.org
+* mauro@2degrees-investing.org
+
+Do you want to help? 
+* Submit a PR adding your 2dii email to the list above
+* In your 2dii google-calendar, add two 30'-long events weekly until the end of May with the title "Name's helpdesk" (replace Name with your name). Try to avoid overlap with helpdesks of others.
