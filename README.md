@@ -26,7 +26,7 @@ The coding-helpdesk complements the more informal support you can get anytime at
 
 ## How to prepare
 
-Create a reproducible example with the [reprex package](https://reprex.tidyverse.org/) or introduce your problem with your helper when you schedule an appointment.
+Create a reproducible example with the [reprex package](https://reprex.tidyverse.org/) or introduce your problem when you schedule an appointment with your helper.
 
 
 
