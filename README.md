@@ -14,11 +14,8 @@ This complements the more informal support you can get anytime at 2DII's slack w
 ## How to schedule an appointment
 
 1. Login to google calendar with your 2DII email.
-
 2. Add the calendars of all helpers (list below).
-
 3. Search for "helpdesk" and identify a suitable time slot and helper.
-
 4. Use the email icon to discuss your issue and request that time slot.
 
 <img src=http://i.imgur.com/OWuGDKa.png, width=600>
