@@ -26,7 +26,7 @@ This complements the more informal support you can get anytime at 2DII's slack w
 
 ## How to prepare
 
-If possible, create a reproducible example with the [reprex package](https://reprex.tidyverse.org/) or discuss your problem with your helper when you ask for an appointment.
+If possible, create a reproducible example with the [reprex package](https://reprex.tidyverse.org/) or discuss your problem with your helper when you schedule an appointment.
 
 
 
