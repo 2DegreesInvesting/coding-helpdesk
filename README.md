@@ -39,8 +39,7 @@ If possible, create a reproducible example with the [reprex package](https://rep
 ## Helpers
 
 * cj@2degrees-investing.org
+* jackson@2degrees-investing.org
 * mauro@2degrees-investing.org
 
-Do you want to help? 
-* Submit a PR adding your 2DII email to the list above
-* In your 2DII google-calendar, add two 30'-long events weekly until the end of May with the title "Name's helpdesk" (replace Name with your name). Try to avoid overlap with helpdesks of others.
+If you want to become a helper, contact Mauro on Slack.
