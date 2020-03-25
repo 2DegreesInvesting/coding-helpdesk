@@ -5,11 +5,8 @@ _Live support by appointment_
 The goal of this repository is to provide infrastructure to support 2DII's coding helpdesk. We'll try it during until the end of May 2020. This is an opportunity for you to schedule a 30' appointment to work live with someone else on whatever coding problem you have. 
 
 This complements the more informal support you can get anytime at 2DII's slack workspace on the channel #coding. The coding-helpdesk is more intentional and useful because:
-
 * it forces you to prepare and explain what your problem is, which brings you closer to the solution;
-
 * it forces you and your helper to focus on your problem without distraction or interruption;
-
 * it facilitates the transfer of knowledge in both directions between you and your helper.
 
 
