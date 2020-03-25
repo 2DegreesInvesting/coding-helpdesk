@@ -25,7 +25,7 @@ This complements the more informal support you can get anytime at 2DII's slack w
 4. Email the helper to discuss your issue and request that time slot.
 
 <img src=http://i.imgur.com/M50PSHX.png, width=600>
-
+<img src=http://i.imgur.com/6pTpgk9.png, width=600>
 
 
 ## How to prepare
