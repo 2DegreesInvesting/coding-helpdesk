@@ -18,9 +18,9 @@ The coding-helpdesk complements the more informal support you can get anytime at
 3. Search for "helpdesk" and identify a suitable time slot and helper.
 4. Use the email icon to discuss your issue and request that time slot.
 
-<img src=http://i.imgur.com/OWuGDKa.png, width=600>
-<img src=http://i.imgur.com/PDs47DO.png, width=600>
-<img src=http://i.imgur.com/Asoduvr.png, width=600>
+<img src=http://i.imgur.com/oKy2hEF.png, width=600>
+<img src=http://i.imgur.com/MnKqj61.png, width=600>
+<img src=http://i.imgur.com/TVTct5h.png, width=600>
 
 
 
@@ -35,5 +35,6 @@ Create a reproducible example with the [reprex package](https://reprex.tidyverse
 * cj@2degrees-investing.org
 * jackson@2degrees-investing.org
 * mauro@2degrees-investing.org
+* pranav@2degrees-investing.org
 
 If you want to become a helper, contact Mauro on Slack.
