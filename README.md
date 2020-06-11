@@ -16,13 +16,10 @@ The coding-helpdesk complements the more informal support you can get anytime at
 1. Login to google calendar with your 2DII email.
 2. Add the calendars of all helpers (list below).
 3. Search for "helpdesk" and identify a suitable time slot and helper.
-4. Use the email icon to discuss your issue and request that time slot.
+4. Use the email icon or Description field to describe what help you need.
 
-<img src=http://i.imgur.com/oKy2hEF.png, width=600>
-<img src=http://i.imgur.com/MnKqj61.png, width=600>
-<img src=http://i.imgur.com/TVTct5h.png, width=600>
-
-
+<img src=http://i.imgur.com/RcbUaUF.png, width=600>
+<img src=http://i.imgur.com/Rdsoso7.png, width=600>
 
 ## How to prepare
 
