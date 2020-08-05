@@ -25,9 +25,7 @@ The coding-helpdesk complements the more informal support you can get anytime at
 
 ## Helpers
 
-* cj@2degrees-investing.org
 * jackson@2degrees-investing.org
 * mauro@2degrees-investing.org
-* pranav@2degrees-investing.org
 
 If you want to become a helper, contact Mauro on Slack.
