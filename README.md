@@ -10,7 +10,7 @@ The coding-helpdesk complements the more informal support you can get anytime at
 ## How to schedule an appointment
 
 1. Login to google calendar with your 2DII email.
-2. Add the calendars of all helpers (list below).
+2. Add the calendars of all [helpers](https://github.com/2DegreesInvesting/coding-helpdesk#helpers).
 3. Search for "helpdesk" and identify a suitable time slot and helper.
 4. Use the email icon or Description field to describe what help you need.
 
