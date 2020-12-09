@@ -1,3 +1,5 @@
+# coding-helpdesk
+
 The goal of this repository is to provide infrastructure to support 2DII's coding helpdesk. We'll try it during until the end of May 2020. This is an opportunity for you to schedule a 30' appointment to work live with someone else on whatever coding problem you have. 
 
 The coding-helpdesk complements the more informal support you can get anytime at 2DII's slack workspace on the channel #coding. It is more intentional and useful because:
