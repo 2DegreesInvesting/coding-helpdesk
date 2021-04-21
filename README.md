@@ -39,5 +39,6 @@ and your helper.
 * cj@2degrees-investing.org
 * jackson@2degrees-investing.org
 * mauro@2degrees-investing.org
+* monika@2degrees-investing.org
 
 If you want to become a helper, contact Mauro on Slack.
